@@ -1,16 +1,27 @@
-# auvnet_flutter_internship_assessment
+# Auvnet Flutter Internship Assessment
 
-A new Flutter project.
+This is a Flutter-based mobile application built as part of the Auvnet internship assessment. The app demonstrates clean architecture, BLoC state management, proper project structure, and basic e-commerce functionality.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📦 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 Login and Signup screens with shared authentication logic  
+- 🏠 Home screen with:
+  - Header and location section
+  - Promo cards
+  - Services shortcuts
+  - Nearby restaurants section with images and delivery time
+- 🌙 Light and dark theme support
+- ✅ Clean and scalable architecture using the BLoC pattern
+- 💾 Local storage via Hive (planned)
+- ☁️ Cloud backend support (Firebase or Supabase – planned)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Setup & Installation Guide
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/faresfouda/auvnet_flutter_internship_assessment.git
+   cd auvnet_flutter_internship_assessment
