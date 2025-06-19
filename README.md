@@ -5,7 +5,10 @@ This is a Flutter-based mobile application built as part of the Auvnet internshi
 ---
 
 ## 📦 Features
-
+- 🖼️ Splash Screen
+  - Animated intro screen shown while the app is loading
+- 👋 Onboarding Screen
+  - Walkthrough for new users highlighting core app functionality
 - 🔐 Login and Signup using Firebase Authentication  
 - 🏠 Home screen with:
   - Header and location section
