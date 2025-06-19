@@ -6,13 +6,12 @@ This is a Flutter-based mobile application built as part of the Auvnet internshi
 
 ## 📦 Features
 
-- 🔐 Login and Signup screens with shared authentication logic  
+- 🔐 Login and Signup using Firebase Authentication  
 - 🏠 Home screen with:
   - Header and location section
   - Promo cards
   - Services shortcuts
   - Nearby restaurants section with images and delivery time
-- 🌙 Light and dark theme support
 - ✅ Clean and scalable architecture using the BLoC pattern
 - 💾 Local storage via Hive (planned)
 - ☁️ Cloud backend support (Firebase or Supabase – planned)
